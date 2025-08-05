@@ -1,0 +1,14 @@
+names:
+- toy
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: toydetector
+  url: https://universe.roboflow.com/toys/toydetector/dataset/1
+  version: 1
+  workspace: toys
+
+# Correct paths relative to the data.yaml file location
+train: ../train/images
+val: ../valid/images
+test: ../test/images
