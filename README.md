@@ -38,7 +38,7 @@ toy-detector/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/toy-detector.git
+   git clone https://github.com/shreyasharma004/toy_detection/tree/main
    cd toy-detector
    ```
 
